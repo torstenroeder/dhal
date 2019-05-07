@@ -3,6 +3,7 @@
 ## Infokanäle
 
 Mailingliste DH Halle: dh@informatik.uni-halle.de
+
 Anmeldung unter: https://janus.informatik.uni-halle.de/cgi-bin/mailman/listinfo/dh
 
 [Twitter-Hashtag #DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
@@ -12,7 +13,7 @@ Telegram-Gruppe #DHAL
 ## Nächste Termine
 
 ```
-21. Mai #DHAL 14 Schnitzelwirtin? (GMärker-18)
+21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
 11. Jun #DHAL 15
 02. Jul #DHAL 4²
 23. Jul #DHAL 17
@@ -22,7 +23,7 @@ Telegram-Gruppe #DHAL
 15. Okt #DHAL 21
 05. Nov #DHAL 22
 26. Nov #DHAL 23
-17. Dez #DHAL 24 Advents-Special
+17. Dez #DHAL 24
 ```
 
 ## Rückschau
