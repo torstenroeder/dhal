@@ -1,10 +1,10 @@
-# DHAL
+# #DHAL
 
-# #DHAL Termine
+## Mailingliste
 
-Mailingliste: dh@informatik.uni-halle.de
+dh@informatik.uni-halle.de
 
-## Nächste Termine (2019)
+## Nächste Termine
 
 21. Mai #DHAL 14 Schnitzelwirtin? (GMärker-18)
 11. Jun #DHAL 15
