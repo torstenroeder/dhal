@@ -1,5 +1,7 @@
 # #DHAL - Hallenser Digital Humanities Stammtisch
 
+regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
+
 ## Infokanäle
 
 * Mailingliste DH Halle ([dh@informatik.uni-halle.de](mailto:dh@informatik.uni-halle.de), Anmeldung [hier](https://janus.informatik.uni-halle.de/cgi-bin/mailman/listinfo/dh))
@@ -7,8 +9,6 @@
 * Telegram-Gruppe #DHAL
 
 ## Nächste Termine - jeweils ab 19 Uhr
-
-regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 
 ```
 21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
