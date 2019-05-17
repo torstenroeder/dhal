@@ -2,7 +2,7 @@
 
 ## Infokanäle
 
-* Mailingliste DH Halle: dh@informatik.uni-halle.de (Anmeldung [hier](https://janus.informatik.uni-halle.de/cgi-bin/mailman/listinfo/dh))
+* Mailingliste DH Halle ([dh@informatik.uni-halle.de](dh@informatik.uni-halle.de), Anmeldung [hier](https://janus.informatik.uni-halle.de/cgi-bin/mailman/listinfo/dh))
 * Twitter-Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
 * Telegram-Gruppe #DHAL
 
