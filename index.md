@@ -6,7 +6,7 @@
 * Twitter-Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
 * Telegram-Gruppe #DHAL
 
-## Nächste Termine
+## Nächste Termine - jeweils ab 19 Uhr
 
 ```
 21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
