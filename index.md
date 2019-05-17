@@ -47,7 +47,7 @@
 19. Mär #DHAL 11 Nante's Pub (*S 6) - #DHd2019 Local Unconference
 09. Apr #DHAL 12 Altes Postamt (Bernburger-25A)
 30. Apr #DHAL 13 Zum Ritter (*S 7) - Walpurgisnacht-Ausgabe
-                 --> mit Hexenforscher! hier der [Vortrag](https://methodos.hypotheses.org/1521)
+                 --> mit Hexenforscher! Hier der Vortrag: https://methodos.hypotheses.org/1521
 ```
 
 
