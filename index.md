@@ -8,6 +8,8 @@
 
 ## Nächste Termine - jeweils ab 19 Uhr
 
+regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
+
 ```
 21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
 11. Jun #DHAL 15
