@@ -11,9 +11,8 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
-11. Jun #DHAL 15
-02. Jul #DHAL 4²
+11. Jun #DHAL 15 Anny Kilkenny (ABS 52)
+02. Jul #DHAL F0 Anny Kilkenny
 23. Jul #DHAL 17
 13. Aug #DHAL 18
 03. Sep #DHAL 19
@@ -50,6 +49,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 09. Apr #DHAL 12 Altes Postamt (Bernburger-25A)
 30. Apr #DHAL 13 Zum Ritter (*S 7) - Walpurgisnacht-Ausgabe
                  --> mit Hexenforscher! Hier der Vortrag: https://methodos.hypotheses.org/1521
+21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
 ```
 
 
