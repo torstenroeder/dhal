@@ -11,9 +11,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-11. Jun #DHAL 15 Anny Kilkenny (ABS 52)
-02. Jul #DHAL F0 Anny Kilkenny
-23. Jul #DHAL 17
+23. Jul #DHAL 17 Samowar (Scharren-4) +to be confirmed+
 13. Aug #DHAL 18
 03. Sep #DHAL 19
 24. Sep #DHAL XX
@@ -32,7 +30,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 17. Apr #DHAL 1 Potemkin (KU 27)
 08. Mai #DHAL 2 Potemkin
 29. Jun #DHAL 3 Potemkin
-21. Aug #DHAL 4 Potemkin
+21. Aug #DHAL 4 Потёмкин
 16. Okt #DHAL 5 Potemkin
 13. Nov #DHAL 6 Hallesches Brauhaus (GN 2)
 04. Dez #DHAL 7 Kaffeeschuppen (KU 11)
@@ -50,6 +48,8 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 30. Apr #DHAL 13 Zum Ritter (*S 7) - Walpurgisnacht-Ausgabe
                  --> mit Hexenforscher! Hier der Vortrag: https://methodos.hypotheses.org/1521
 21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
+11. Jun #DHAL 15 Anny Kilkenny (ABS 52)
+02. Jul #DHAL 10000₂ Anny Kilkenny
 ```
 
 
