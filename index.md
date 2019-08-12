@@ -11,7 +11,6 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-23. Jul #DHAL 17 Mitte Ende Mai (Uni° 23)
 13. Aug #DHAL 18 Potemkin (KU 27)
 03. Sep #DHAL 19
 24. Sep #DHAL XX
@@ -50,6 +49,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 21. Mai #DHAL 14 Schnitzelwirtin (GMärker-18)
 11. Jun #DHAL 15 Anny Kilkenny (ABS 52)
 02. Jul #DHAL 10000₂ Anny Kilkenny
+23. Jul #DHAL 17 Mitte Ende Mai (Uni° 23)
 ```
 
 
