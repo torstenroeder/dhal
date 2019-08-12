@@ -12,7 +12,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 
 ```
 23. Jul #DHAL 17 Mitte Ende Mai (Uni° 23)
-13. Aug #DHAL 18
+13. Aug #DHAL 18 Potemkin (KU 27)
 03. Sep #DHAL 19
 24. Sep #DHAL XX
 15. Okt #DHAL 21
