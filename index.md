@@ -11,7 +11,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-24. Sep #DHAL XX tba
+24. Sep #DHAL XX Potemkin (KU 27)
 15. Okt #DHAL 21
 05. Nov #DHAL 22
 26. Nov #DHAL 23
@@ -49,5 +49,5 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 02. Jul #DHAL 10000₂ Anny Kilkenny
 23. Jul #DHAL 17 Mitte Ende Mai (Uni° 23)
 13. Aug #DHAL 18 Potemkin
-03. Sep #DHAL 19 Potemkin, doch nicht Peißnitzhaus
+03. Sep #DHAL 19 Potemkin (leider nicht im Peißnitzhaus)
 ```
