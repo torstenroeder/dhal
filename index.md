@@ -13,8 +13,9 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ```
 15. Okt #DHAL 21 N8 (GN 8)
 05. Nov #DHAL 22 voraussichtlich: DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
-26. Nov #DHAL 23
-17. Dez #DHAL 24
+26. Nov #DHAL 23 [tba]
+17. Dez #DHAL 24 ..
+14. Jan #DHAL 25 ..
 ```
 
 ## Rückschau
