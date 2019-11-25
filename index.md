@@ -11,10 +11,10 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-05. Nov #DHAL 22 DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
-26. Nov #DHAL 23 [tba]
-17. Dez #DHAL 24 ..
-14. Jan #DHAL 25 ..
+26. Nov #DHAL 23 Café NT (GU 51)
+17. Dez #DHAL 24 Weihnachtsmarkt 🎄
+14. Jan #DHAL 25 [tba]
+04. Feb #DHAL 26 ..
 ```
 
 ## Rückschau
@@ -51,4 +51,5 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 03. Sep #DHAL 19 Potemkin (leider nicht im Peißnitzhaus)
 24. Sep #DHAL XX Potemkin
 15. Okt #DHAL 21 N8 (GN 8)
+05. Nov #DHAL 22 DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
 ```
