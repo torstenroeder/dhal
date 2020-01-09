@@ -6,13 +6,13 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 
 * Mailingliste DH Halle ([dh@informatik.uni-halle.de](mailto:dh@informatik.uni-halle.de), Anmeldung [hier](https://janus.informatik.uni-halle.de/cgi-bin/mailman/listinfo/dh))
 * Twitter-Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
-* Telegram-Gruppe #DHAL
+* Telegram-Gruppe #DHAL (nur persönlich)
 
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-14. Jan #DHAL 25 [tba]
-04. Feb #DHAL 26 ..
+14. Jan #DHAL 25 7gramm (Barfüßer-11)
+04. Feb #DHAL 26 [tba]
 25. Feb #DHAL 27 ..
 17. Mär #DHAL 28 ..
 07. Apr #DHAL 29 ..
