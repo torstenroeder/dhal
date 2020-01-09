@@ -5,6 +5,8 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Infokanäle
 
 * Mailingliste DH Halle ([dh@informatik.uni-halle.de](mailto:dh@informatik.uni-halle.de), Anmeldung [hier](https://janus.informatik.uni-halle.de/cgi-bin/mailman/listinfo/dh))
+* Mailingliste DH Mitteldeutschland ([dhmdl@lists.uni-leipzig.de](mailto:dhmdl@lists.uni-leipzig.de))
+* Mailingliste Forum DH Leipzig ([fdhl@lists.uni-leipzig.de](mailto:fdhl@lists.uni-leipzig.de))
 * Twitter-Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
 * Telegram-Gruppe #DHAL (nur persönlich)
 
