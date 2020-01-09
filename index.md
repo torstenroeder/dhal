@@ -61,3 +61,8 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ### 2020
 
 ...
+
+## Literatur
+
+* Müller, Andreas. "#DHAL Demystified: The Joys of Founding a DH Regulars’ Table." Blog: Met-Hodos. (Re)considering the road of research and analysis. 28.10.2019. https://methodos.hypotheses.org/1661
+* Roeder, Torsten; Müller, Andreas: "Digital Humanities als Stammtisch-Science? Der Hallenser DH-Stammtisch als informelle Vergesellschaftungsform eines jungen Fachs" (Poster). 3. Digital Humanities Day, Leipzig (Germany). 02.12.2019. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3557385.svg)](https://doi.org/10.5281/zenodo.3557385)
