@@ -11,10 +11,12 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-26. Nov #DHAL 23 Café NT (GU 51)
-17. Dez #DHAL 24 Weihnachtsmarkt 🎄
 14. Jan #DHAL 25 [tba]
 04. Feb #DHAL 26 ..
+25. Feb #DHAL 27 ..
+17. Mär #DHAL 28 ..
+07. Apr #DHAL 29 ..
+28. Apr #DHAL 30 ..
 ```
 
 ## Rückschau
@@ -52,4 +54,10 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 24. Sep #DHAL XX Potemkin
 15. Okt #DHAL 21 N8 (GN 8)
 05. Nov #DHAL 22 DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
+26. Nov #DHAL 23 Café NT (GU 51)
+17. Dez #DHAL 24 Weihnachtsmarkt 🎄
 ```
+
+### 2020
+
+...
