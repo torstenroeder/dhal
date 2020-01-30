@@ -13,9 +13,8 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-14. Jan #DHAL 25 7gramm (Barfüßer-11)
-04. Feb #DHAL 26 [tba]
-25. Feb #DHAL 27 ..
+04. Feb #DHAL 26 Strieses Biertunnel (GU 51)
+25. Feb #DHAL 27 #DHAL|Leipzig: tba
 17. Mär #DHAL 28 ..
 07. Apr #DHAL 29 ..
 28. Apr #DHAL 30 ..
@@ -62,7 +61,9 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 
 ### 2020
 
-...
+```
+14. Jan #DHAL 25 7gramm (Barfüßer-11)
+```
 
 ## Literatur
 
