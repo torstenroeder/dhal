@@ -13,10 +13,11 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-25. Feb #DHAL 27 DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
-17. Mär #DHAL 28 tba
-07. Apr #DHAL 29 ..
+17. Mär #DHAL 28 2ZKB (Reilstr. 133)
+07. Apr #DHAL 29 tba
 28. Apr #DHAL 30 ..
+19. Mai #DHAL 31 ..
+09. Jun #DHAL 100000₂ ..
 ```
 
 ## Rückschau
@@ -63,6 +64,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ```
 14. Jan #DHAL 25 7gramm (Barfüßer-11)
 04. Feb #DHAL 26 Strieses Biertunnel (GU 51)
+25. Feb #DHAL 27 DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
 ```
 
 ## Literatur
