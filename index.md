@@ -13,7 +13,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-17. Mär #DHAL 28 2ZKB (Reilstr. 133)
+17. Mär #DHAL 28 Online-Ausgabe (verfolge #DHAL auf Twitter)
 07. Apr #DHAL 29 tba
 28. Apr #DHAL 30 ..
 19. Mai #DHAL 31 ..
