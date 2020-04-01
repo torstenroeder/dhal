@@ -7,14 +7,14 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 * Mailingliste DH Halle ([dh@informatik.uni-halle.de](mailto:dh@informatik.uni-halle.de), Anmeldung [hier](https://janus.informatik.uni-halle.de/cgi-bin/mailman/listinfo/dh))
 * Mailingliste DH Mitteldeutschland ([dhmdl@lists.uni-leipzig.de](mailto:dhmdl@lists.uni-leipzig.de))
 * Mailingliste Forum DH Leipzig ([fdhl@lists.uni-leipzig.de](mailto:fdhl@lists.uni-leipzig.de))
-* Twitter-Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
-* Telegram-Gruppe #DHAL (nur persönlich)
+* Twitter: Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
+* Telegram: Gruppe #DHAL (bitte Kontakt mit einem Gruppenmitglied aufnehmen)
+* Discord: ~#DHAL~ #DHall (Einladungslink: https://discord.gg/36dGGG)
 
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-17. Mär #DHAL 28 Online-Ausgabe (verfolge #DHAL auf Twitter)
-07. Apr #DHAL 29 tba
+07. Apr #DHAL 29 Online-Ausgabe im DHAL-Channel auf Discord! (siehe oben)
 28. Apr #DHAL 30 ..
 19. Mai #DHAL 31 ..
 09. Jun #DHAL 100000₂ ..
@@ -65,6 +65,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 14. Jan #DHAL 25 7gramm (Barfüßer-11)
 04. Feb #DHAL 26 Strieses Biertunnel (GU 51)
 25. Feb #DHAL 27 DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
+17. Mär #DHAL 28 Online-Ausgabe (siehe #DHAL auf Twitter)
 ```
 
 ## Literatur
