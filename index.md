@@ -9,12 +9,12 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 * Mailingliste Forum DH Leipzig ([fdhl@lists.uni-leipzig.de](mailto:fdhl@lists.uni-leipzig.de))
 * Twitter: Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
 * Telegram: Gruppe #DHAL (bitte Kontakt mit einem Gruppenmitglied aufnehmen)
-* Discord: ~#DHAL~ #DHall (Einladungslink: https://discord.gg/36dGGG)
+* Discord: ~#DHAL~ jetzt: #DHall und dort der Channel #halle_dhal
 
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-07. Apr #DHAL 29 Online-Ausgabe im DHAL-Channel auf Discord! (siehe oben)
+07. Apr #DHAL 29 Online-Ausgabe im DHAL-Channel auf Discord! (siehe #DHAL auf Twitter)
 28. Apr #DHAL 30 ..
 19. Mai #DHAL 31 ..
 09. Jun #DHAL 100000₂ ..
