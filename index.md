@@ -14,10 +14,9 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-28. Apr #DHAL 30 Online-Ausgabe im DHAL-Channel auf Discord! (siehe #DHAL auf Twitter)
-19. Mai #DHAL 31 ..
-09. Jun #DHAL 100000₂ ..
-30. Jun #DHAL 33 ..
+21. Jul #DHAL 34 tba
+11. Aug #DHAL 35 tba
+01. Sep #DHAL 36 tba
 ```
 
 ## Rückschau
@@ -66,7 +65,11 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 04. Feb #DHAL 26 Strieses Biertunnel (GU 51)
 25. Feb #DHAL 27 DHAL goes LE! im Dhillons, Reichsstr. 18, 04109 Leipzig
 17. Mär #DHAL 28 Online-Ausgabe, siehe #DHAL auf Twitter
-07. Apr #DHAL 29 Online-Ausgabe im DHAL-Channel auf Discord, siehe #DHAL auf Twitter
+07. Apr #DHAL 29 Online-Ausgabe
+28. Apr #DHAL 30 Online-Ausgabe, Channel #DHAL auf Discord-Server #DHall
+19. Mai #DHAL 31 Online-Ausgabe
+09. Jun #DHAL 100000₂ Hybrid-Edition auf #DHall und auf der Würfelwiese
+30. Jun #DHAL 33 Hybrid-Edition auf #DHall und im Kaffeeschuppen
 ```
 
 ## Literatur
