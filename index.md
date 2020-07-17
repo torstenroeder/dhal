@@ -14,7 +14,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-21. Jul #DHAL 34 Hybrid-Edition auf #DHall und im Kaffeeschuppen
+21. Jul #DHAL 34 Hybrid-Edition auf #DHall und im Kaffeeschuppen (KU 11)
 11. Aug #DHAL 35 tba
 01. Sep #DHAL 36 tba
 ```
@@ -69,7 +69,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 28. Apr #DHAL 30 Online-Ausgabe, Channel #DHAL auf Discord-Server #DHall
 19. Mai #DHAL 31 Online-Ausgabe
 09. Jun #DHAL 100000₂ Hybrid-Edition auf #DHall und auf der Würfelwiese
-30. Jun #DHAL 33 Hybrid-Edition auf #DHall und im Kaffeeschuppen
+30. Jun #DHAL 33 Hybrid-Edition auf #DHall und im Kaffeeschuppen (KU 11)
 ```
 
 ## Literatur
