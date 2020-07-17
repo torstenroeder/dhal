@@ -14,7 +14,7 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-21. Jul #DHAL 34 tba
+21. Jul #DHAL 34 Hybrid-Edition auf #DHall und im Kaffeeschuppen
 11. Aug #DHAL 35 tba
 01. Sep #DHAL 36 tba
 ```
