@@ -1,6 +1,7 @@
 # #DHAL - Hallenser Digital Humanities Stammtisch
 
-NEU: regulär jeden vierten Dienstag im Monat :NEU
+ab September 2020: regulär jeden vierten Dienstag im Monat
+
 ~regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen~
 
 ## Infokanäle
@@ -15,7 +16,7 @@ NEU: regulär jeden vierten Dienstag im Monat :NEU
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-22. Sep #DHAL 35 realDHAL vsl. im Anny Kilkenny!
+22. Sep #DHAL 35 realDHAL im Anny Kilkenny! (ABS 52)
 27. Okt #DHAL 36 tba
 24. Nov #DHAL 37 tba
 ```
@@ -79,4 +80,4 @@ NEU: regulär jeden vierten Dienstag im Monat :NEU
 ## Literatur
 
 * Müller, Andreas. "#DHAL Demystified: The Joys of Founding a DH Regulars’ Table." Blog: Met-Hodos. (Re)considering the road of research and analysis. 28.10.2019. https://methodos.hypotheses.org/1661
-* Roeder, Torsten; Müller, Andreas: "Digital Humanities als Stammtisch-Science? Der Hallenser DH-Stammtisch als informelle Vergesellschaftungsform eines jungen Fachs" (Poster). 3. Digital Humanities Day, Leipzig (Germany). 02.12.2019. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3557385.svg)](https://doi.org/10.5281/zenodo.3557385)
+* Roeder, Torsten; Müller, Andreas. "Digital Humanities als Stammtisch-Science? Der Hallenser DH-Stammtisch als informelle Vergesellschaftungsform eines jungen Fachs" (Poster). 3. Digital Humanities Day, Leipzig (Germany). 02.12.2019. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3557385.svg)](https://doi.org/10.5281/zenodo.3557385)
