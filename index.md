@@ -1,6 +1,7 @@
 # #DHAL - Hallenser Digital Humanities Stammtisch
 
-regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
+NEU: regulär jeden vierten Dienstag im Monat :NEU
+~regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen~
 
 ## Infokanäle
 
@@ -9,14 +10,14 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 * Mailingliste Forum DH Leipzig ([fdhl@lists.uni-leipzig.de](mailto:fdhl@lists.uni-leipzig.de))
 * Twitter: Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
 * Telegram: Gruppe #DHAL (bitte Kontakt mit einem Gruppenmitglied aufnehmen)
-* Discord: ~#DHAL~ jetzt: #DHall und dort der Channel #halle_dhal
+* Discord-Server: ~DHAL~ DHall, Channel #halle_dhal
 
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-21. Jul #DHAL 34 Hybrid-Edition auf #DHall und im Kaffeeschuppen (KU 11)
-11. Aug #DHAL 35 tba
-01. Sep #DHAL 36 tba
+22. Sep #DHAL 35 realDHAL vsl. im Anny Kilkenny!
+27. Okt #DHAL 36 tba
+24. Nov #DHAL 37 tba
 ```
 
 ## Rückschau
@@ -70,6 +71,9 @@ regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen
 19. Mai #DHAL 31 Online-Ausgabe
 09. Jun #DHAL 100000₂ Hybrid-Edition auf #DHall und auf der Würfelwiese
 30. Jun #DHAL 33 Hybrid-Edition auf #DHall und im Kaffeeschuppen (KU 11)
+21. Jul #DHAL 34 Hybrid-Edition auf #DHall und im Kaffeeschuppen (KU 11)
+- Sommerpause -
+
 ```
 
 ## Literatur
