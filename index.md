@@ -16,9 +16,9 @@ ab September 2020: regulär jeden vierten Dienstag im Monat
 ## Nächste Termine - jeweils ab 19 Uhr
 
 ```
-27. Okt #DHAL 36 vitualDHAL auf dem Discord-Server #DHall, Channel halle_dhal
-24. Nov #DHAL 37 tba
-22. Dez #DHAL 38 tba
+22. Dez #DHAL 38 DHAL:leluja auf dem Discord-Server #DHall, Channel halle_dhal
+26. Jan #DHAL 39
+23. Feb #DHAL 40
 ```
 
 ## Rückschau
@@ -75,6 +75,8 @@ ab September 2020: regulär jeden vierten Dienstag im Monat
 21. Jul #DHAL 34 Hybrid-Edition auf #DHall und im Kaffeeschuppen (KU 11)
 - Sommerpause -
 22. Sep #DHAL 35 realDHAL im Anny Kilkenny! (ABS 52)
+27. Okt #DHAL 36 virtuDHAL auf dem Discord-Server #DHall, Channel halle_dhal
+24. Nov #DHAL 37 virtuDHAL auf dem Discord-Server #DHall, Channel halle_dhal
 ```
 
 ## Literatur
