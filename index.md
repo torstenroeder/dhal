@@ -1,6 +1,8 @@
 # #DHAL - Hallenser Digital Humanities Stammtisch
 
-ab September 2020: regulär jeden vierten Dienstag im Monat
+ab Januar 2021: regulär jeden vierten Dienstag im Monat um 19:30
+
+~ab September 2020: regulär jeden vierten Dienstag im Monat um 19:00~
 
 ~regulär jeden Dienstag in den durch drei teilbaren Kalenderwochen~
 
