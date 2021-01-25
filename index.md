@@ -13,12 +13,12 @@ ab September 2020: regulär jeden vierten Dienstag im Monat
 * Telegram: Gruppe #DHAL (bitte Kontakt mit einem Gruppenmitglied aufnehmen)
 * Discord-Server: ~DHAL~ DHall, Channel #halle_dhal
 
-## Nächste Termine - jeweils ab 19 Uhr
+## Nächste Termine - jeweils ab 19.30 Uhr
 
 ```
-22. Dez #DHAL 38 DHAL:leluja auf dem Discord-Server #DHall, Channel halle_dhal
-26. Jan #DHAL 39
-23. Feb #DHAL 40
+26. Jan #DHAL 39 virtuDHAL auf dem Discord-Server #DHall, Channel halle_dhal
+23. Feb #DHAL 40 virtuDHAL auf dem Discord-Server #DHall, Channel halle_dhal
+23. Mär #DHAL 41 virtuDHAL auf dem Discord-Server #DHall, Channel halle_dhal
 ```
 
 ## Rückschau
@@ -77,6 +77,7 @@ ab September 2020: regulär jeden vierten Dienstag im Monat
 22. Sep #DHAL 35 realDHAL im Anny Kilkenny! (ABS 52)
 27. Okt #DHAL 36 virtuDHAL auf dem Discord-Server #DHall, Channel halle_dhal
 24. Nov #DHAL 37 virtuDHAL auf dem Discord-Server #DHall, Channel halle_dhal
+22. Dez #DHAL 38 DHAL:leluja auf dem Discord-Server #DHall, Channel halle_dhal
 ```
 
 ## Literatur
