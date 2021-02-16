@@ -13,7 +13,7 @@ ab Januar 2021: regulär jeden vierten Dienstag im Monat um 19:30
 * Mailingliste Forum DH Leipzig ([fdhl@lists.uni-leipzig.de](mailto:fdhl@lists.uni-leipzig.de))
 * Twitter: Hashtag [#DHAL](https://mobile.twitter.com/search?q=%23dhal&src=typed_query)
 * Telegram: Gruppe #DHAL (bitte Kontakt mit einem Gruppenmitglied aufnehmen)
-* Discord-Server: ~DHAL~ DHall, Channel #halle_dhal
+* Discord-Server: ~DHAL~ [#DHall](https://torstenroeder.github.io/dhall), dort im Channel #halle_dhal
 
 ## Nächste Termine - jeweils ab 19.30 Uhr
 
